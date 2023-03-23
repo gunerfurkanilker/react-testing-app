@@ -1,0 +1,20 @@
+.i-header{
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 10px;
+    width: calc(100% - 300px);
+    margin-left: 300px;
+    border:3px solid red;
+}
+.i-header-account{
+    display: flex;
+    padding: 5px;
+}
+.i-header-account-icon{
+    width: 25%;
+}
+
+
+
+
+

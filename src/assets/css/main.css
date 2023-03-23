@@ -1,0 +1,9 @@
+@import url('./header/header.css');
+@import url('./sidebar/sidebar.css');
+@import url('./footer/footer.css');
+
+.i-container{
+    width: calc(100% - 300px);
+    margin-left: 300px;
+    padding: 10px;
+}
